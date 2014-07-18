@@ -9,7 +9,7 @@ File: lang/tr.php
 $lang = array(
     "decimal seperator"             => ".",
     "thousands separator"           => ",",
-    "datetime format"               => "m/d/Y H:i", // www.php.net/manual/en/function.date.php
+    "datetime format"               => "d/M/Y H:i", // www.php.net/manual/en/function.date.php
     "Insert"                        => "Ekle",
     "File"                          => "Dosya",
     "Root"                          => "Ana Dizin",
